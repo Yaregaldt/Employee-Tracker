@@ -6,6 +6,8 @@
 
 This is an apllication used to view and manage the departyments, roles, and employees in a company.
 
+View link here - [Screencastify-Record](https://drive.google.com/file/d/1ZkXHSTQeQaENFkByrJIKgsGUW582R53_/view?usp=sharing)
+
 ## Table of Contents
 
 - [Installation](#installation)
